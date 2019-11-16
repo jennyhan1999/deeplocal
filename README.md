@@ -1,14 +1,16 @@
 To run, download:
-- TextBlob 
-  	pip install -U textblob
-  	python -m textblob.download_corpora lite
-  	- or -
-  	git clone https://github.com/sloria/TextBlob.git
-  	python setup.py install
+- TextBlob <br>
+  	pip install -U textblob<br>
+  	python -m textblob.download_corpora lite<br>
 
-- Tweepy, tabulate
-  pip install tweepy
-  pip install tabulate
+  	or
+    
+  	git clone https://github.com/sloria/TextBlob.git<br>
+  	python setup.py install<br>
+
+- Tweepy, tabulate <br>
+  pip install tweepy <br>
+  pip install tabulate <br>
 
 Then, type "python deeplocal.py" into terminal.
 
